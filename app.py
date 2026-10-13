@@ -10,7 +10,7 @@ st.set_page_config(page_title="Nassau Candy - Shipping Route Efficiency", layout
 # ----------------------------------------------------------------------
 @st.cache_data
 def load_data():
-    d = pd.read_csv("data/clean_shipments.csv", parse_dates=["Order Date", "Ship Date"])
+    d = pd.read_csv("clean_shipments.csv", parse_dates=["Order Date", "Ship Date"])
     return d
 
 df = load_data()
