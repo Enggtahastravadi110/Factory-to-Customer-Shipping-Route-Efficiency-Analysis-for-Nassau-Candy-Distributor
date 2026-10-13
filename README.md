@@ -96,8 +96,12 @@ nassau-candy-dashboard/
 ├── app.py                  # Streamlit dashboard
 ├── requirements.txt        # Python dependencies
 ├── README.md
-├── data/
-│   └── clean_shipments.csv # Cleaned data with engineered features
+├── clean_shipments.csv     # Cleaned data with engineered features
+├── factory_kpis.csv    
+├── region_routes.csv   
+├── overall_kpis.csv
+├── state_routes.csv
+├── state_performance.csv   
 └── Analysis.ipynb          # Notebook with the full analysis (optional)
 ```
 
@@ -125,4 +129,4 @@ Python, pandas, NumPy, Plotly, Streamlit, Jupyter.
 
 ## Author
 
-_Your name_ | Unified Mentor Internship | _LinkedIn / email (optional)_
+Taha S. Travadi | Unified Mentor Internship | 
