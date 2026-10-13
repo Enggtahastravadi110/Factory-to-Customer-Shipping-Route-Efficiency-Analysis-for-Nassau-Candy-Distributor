@@ -1,0 +1,12 @@
+KPI,Value
+Total Shipments (Route Volume),10194
+Average Lead Time (days),1320.8
+Median Lead Time (days),1274
+Lead Time Std Dev (days),262.4
+Delay Threshold (days),1638
+Delay Frequency (%),21.1
+Total Routes (State level),196
+Reliable Routes (10+ orders),96
+Avg Route Efficiency Score,55.3
+Total Sales,141783.63
+Overall Profit Margin (%),65.9
