@@ -1,5 +1,8 @@
 # Factory-to-Customer Shipping Route Efficiency Analysis
 ### Nassau Candy Distributor | Unified Mentor Internship Project
+###A data analysis project and interactive Streamlit dashboard that measures how efficiently Nassau Candy Distributor ships products from its factories to customers across the US, at route, region, state and ship-mode level.
+
+###Live dashboard: https://factorytocustomershippingrouteefficiency.streamlit.app/
 
 A data analysis project and interactive Streamlit dashboard that measures how efficiently Nassau Candy Distributor ships products from its factories to customers across the US, at route, region, state and ship-mode level.
 
