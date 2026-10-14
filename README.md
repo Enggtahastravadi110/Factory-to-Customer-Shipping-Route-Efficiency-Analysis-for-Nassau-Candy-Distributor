@@ -127,7 +127,7 @@ Nassau Candy ships from several factories to customers nationwide, but logistics
 
 ## Research Paper Summary
 
-The full paper (`reports/Nassau_Candy_Research_Paper.docx`, about 15 pages with 8 tables and 7 charts) is organised as follows.
+The full paper (`Nassau_Candy_Research_Paper.pdf`, about 15 pages with 8 tables and 7 charts) is organised as follows.
 
 | Section | What it covers |
 |---|---|
@@ -174,7 +174,12 @@ nassau-candy-dashboard/
 ├── requirements.txt                         # Python dependencies
 ├── README.md
 ├── data/
-│   └── clean_shipments.csv                  # Cleaned data with engineered features
+│  ├── clean_shipments.csv                  # Cleaned data with engineered features
+│  ├── state_routes.csv
+│  ├── factory_kpis.csv                   
+│  ├── region_routes.csv
+│  ├── overall_kpis.csv
+│  └── state_performance.csv                  
 ├── reports/
 │   ├── Nassau_Candy_Research_Paper.docx     # Full research paper
 │   └── Nassau_Candy_Executive_Summary.docx  # Executive summary
@@ -206,4 +211,4 @@ Python, pandas, NumPy, Plotly, Streamlit, Jupyter, Matplotlib.
 
 ## Author
 
-**Taha S. Travadi** | Unified Mentor Internship, Project 2
+**Taha S. Travadi** | Unified Mentor Internship | Likedin : https://www.linkedin.com/in/taha-travadi-cte-gecbvn-ce-b92977297 | Email : ttravadi540@gmail.com 
